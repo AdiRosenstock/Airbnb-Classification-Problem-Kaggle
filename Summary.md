@@ -87,6 +87,6 @@ In addition to the final CatBoostClassifier, I explored and tuned several other 
 
 ## ⚠️ Disclaimers
 
-- The full code and modeling process is documented in the accompanying `.html` notebook (`Kaggle_Classification_Problem.html`) located in the repository.
+- The full code and modeling process is documented in the accompanying `.html` notebook (`Airbnb_Classification_Problem.html`) located in the repository.
 - Due to computational demands, model tuning (especially for ensemble methods like XGBoost and CatBoost) was performed using a remote console environment with higher CPU and memory capacity. This ensured faster grid searches, better resource handling, and overall smoother experimentation.
 - The data set was provided by kaggle
