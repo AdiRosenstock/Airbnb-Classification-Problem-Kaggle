@@ -1,6 +1,6 @@
 # 🏡 Airbnb Superhost Classification | STAT 303-3 ML Competition
 
-👉 [Click here to view the full HTML report](https://adirosenstock.github.io/Airbnb-Classification-Problem-Kaggle/CatBoost_Classification_Problem.html)
+👉 [Click here to view the full HTML report](https://adirosenstock.github.io/Airbnb-Classification-Problem-Kaggle/Airbnb_Classification_Problem.html)
 
 
 This repository contains my submission for the final machine learning competition in **STAT 303-3: Data Science with Python III** at Northwestern University. The objective was to predict whether an Airbnb host is a **Superhost** using real listing data from Chicago, Asheville, and Kauai Island.
